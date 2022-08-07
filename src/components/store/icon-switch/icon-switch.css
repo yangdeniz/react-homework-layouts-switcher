@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.icon-container {
+  width: 45px;
+  margin-right: 20px;
+  margin-left: auto;
+}
+
+.material-icons {
+  cursor: pointer;
+  font-size: 42px;
+  color: #7f7f7f;
+}

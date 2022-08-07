@@ -1,0 +1,7 @@
+.products-container--list-view {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: 100px;
+  gap: 5px;
+  margin-top: 20px;
+}

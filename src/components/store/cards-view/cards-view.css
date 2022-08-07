@@ -1,0 +1,7 @@
+.products-container--cards-view {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+  justify-items: center;
+  margin-top: 20px;
+}
